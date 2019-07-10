@@ -11,7 +11,7 @@
 <body>
 	<div id="wrapper">
 		<div id="header">
-			<h2>Army University</h2>
+			<h2>Bangladesh Army University</h2>
 		</div>
 	</div>
 	
@@ -57,14 +57,3 @@
 </body>
 
 </html>
-
-
-
-
-
-
-
-
-
-
-
